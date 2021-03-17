@@ -1,0 +1,7 @@
+C:\Users\adm\source\repos\danielpradosouza\aulas\Imc2\bin\Debug\Imc2.exe.config
+C:\Users\adm\source\repos\danielpradosouza\aulas\Imc2\bin\Debug\Imc2.exe
+C:\Users\adm\source\repos\danielpradosouza\aulas\Imc2\bin\Debug\Imc2.pdb
+C:\Users\adm\source\repos\danielpradosouza\aulas\Imc2\obj\Debug\Imc2.csprojAssemblyReference.cache
+C:\Users\adm\source\repos\danielpradosouza\aulas\Imc2\obj\Debug\Imc2.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\danielpradosouza\aulas\Imc2\obj\Debug\Imc2.exe
+C:\Users\adm\source\repos\danielpradosouza\aulas\Imc2\obj\Debug\Imc2.pdb
