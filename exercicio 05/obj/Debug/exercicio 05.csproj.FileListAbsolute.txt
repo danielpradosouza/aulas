@@ -1,0 +1,7 @@
+C:\Users\adm\source\repos\danielpradosouza\exercicio 05\obj\Debug\exercicio 05.csprojAssemblyReference.cache
+C:\Users\adm\source\repos\danielpradosouza\exercicio 05\obj\Debug\exercicio 05.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\danielpradosouza\exercicio 05\bin\Debug\exercicio 05.exe.config
+C:\Users\adm\source\repos\danielpradosouza\exercicio 05\bin\Debug\exercicio 05.exe
+C:\Users\adm\source\repos\danielpradosouza\exercicio 05\bin\Debug\exercicio 05.pdb
+C:\Users\adm\source\repos\danielpradosouza\exercicio 05\obj\Debug\exercicio 05.exe
+C:\Users\adm\source\repos\danielpradosouza\exercicio 05\obj\Debug\exercicio 05.pdb
